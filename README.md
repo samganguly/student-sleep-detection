@@ -197,7 +197,7 @@ This system is basically your nagging parent in software form. It:
 '·:............................................................................................:·'
 ```
 
-# ✨ NEW FEATURES UPDATE (2025 Edition)
+# ✨ NEW FEATURES UPDATE
 
 Because staying awake isn’t hard enough, we added more ways to catch you slacking.  
 Introducing the **Enhanced Sleep Detection Features** — now with more sass, more smarts, and *yes*, more alarms.  
